@@ -41,4 +41,10 @@ return {
       require('colorizer').setup()
     end,
   },
+  {
+    'jlcrochet/vim-razor',
+  },
+  {
+    'jlcrochet/vim-cs',
+  },
 }
