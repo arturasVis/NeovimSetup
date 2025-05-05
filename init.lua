@@ -25,4 +25,8 @@ require('lazy').setup {
   require 'plugins.alpha',
   require 'plugins.indent',
   require 'plugins.misc',
+  require 'plugins.easydotnet',
+  require 'plugins.roslyn',
+  require 'plugins.dap',
+  require 'plugins.blink',
 }
